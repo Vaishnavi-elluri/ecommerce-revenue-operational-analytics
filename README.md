@@ -87,7 +87,6 @@ MySQL queries were developed to investigate:
 * **Health & Beauty** recorded approximately **R$1.44 million** in total order value in the recorded SQL analysis.
 * **Bed, Bath & Table** recorded **9,417 orders**, the highest order count among the categories in the recorded results.
 
-💡 **Business implication:** Category planning should consider both order value and order volume, as the highest-value category may not be the highest-volume category.
 
 ### 📈 2. Monthly Order-Value Trends
 
@@ -135,17 +134,6 @@ Examines seller performance, high-value products, item pricing, freight value, a
 
 Focuses on late orders, delivery duration, delivery trends, and operational performance breakdowns.
 
-### 🖼️ Dashboard Preview
-
-Add screenshots of your actual dashboard pages to the `screenshots/` folder and embed them below.
-
-```markdown
-![Business Performance Overview](screenshots/business_performance_overview.png)
-
-![Sales and Product Performance](screenshots/sales_product_performance.png)
-
-![Delivery and Operational Performance](screenshots/delivery_operational_performance.png)
-```
 
 ## 💡 Business Recommendations
 
@@ -156,9 +144,6 @@ Based on the recorded findings, the following actions are proposed for further i
 3. 📦 Consider category demand and delivery risk when planning fulfillment capacity.
 4. 📅 Review historical monthly order-value trends when planning inventory and operations.
 5. 💳 Track payment-method distribution to understand the composition of payment value.
-
-⚠️ These are proposed recommendations. Their actual business impact has not been measured.
-
 
 
 ## 🎯 Conclusion
